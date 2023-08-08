@@ -1,1 +1,6 @@
 "HOLA, ESTE ES ES MI PRIMER ARCHIVO EN GIT"
+
+Segunda modificación, se encuentra en el archivo Index.html:
+
+<h1>Hola, este es mi primer archivo en Git</h1>
+    <text> se realiza el primer trabajo en git </text>
